@@ -1,0 +1,9 @@
+{
+  "version": "independent",
+  "npmClient": "yarn",
+  "packages": [
+    "shell",
+    "micro-app-one",
+    "micro-app-two"
+  ]
+}
