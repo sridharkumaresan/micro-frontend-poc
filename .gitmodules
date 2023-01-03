@@ -1,0 +1,9 @@
+[submodule "shell"]
+	path = shell
+	url = git@github.com:sridharkumaresan/shell.git
+[submodule "micro-app-one"]
+	path = micro-app-one
+	url = git@github.com:sridharkumaresan/micro-app-one.git
+[submodule "micro-app-two"]
+	path = micro-app-two
+	url = git@github.com:sridharkumaresan/micro-app-two.git
